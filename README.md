@@ -71,7 +71,7 @@ node_filesystem_avail_bytes{job=~"nodeexporter",mountpoint="/",fstype!="rootfs"}
 
 Для решения этого задания приведите promql-запросы для выдачи этих метрик, а также скриншот получившейся Dashboard.
 
-![2](https://github.com/smabramov/10-monitoring-03-grafana/blob/882366a8b7229ae98cbed3888bed237547aa548c/png/2.png)
+![02](https://github.com/user-attachments/assets/2a5f4f96-6e41-47e7-a016-7c760097cf24)
 
 ## Задание 3
 
