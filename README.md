@@ -78,16 +78,17 @@ node_filesystem_avail_bytes{job=~"nodeexporter",mountpoint="/",fstype!="rootfs"}
 1. Создайте для каждой Dashboard подходящее правило alert — можно обратиться к первой лекции в блоке «Мониторинг».
 1. В качестве решения задания приведите скриншот вашей итоговой Dashboard.
 
-![3](https://github.com/smabramov/10-monitoring-03-grafana/blob/882366a8b7229ae98cbed3888bed237547aa548c/png/3.png)
+![03](https://github.com/user-attachments/assets/cd36d480-61f0-4ea9-8bcd-6f6c1d00b06b)
 
-![4](https://github.com/smabramov/10-monitoring-03-grafana/blob/882366a8b7229ae98cbed3888bed237547aa548c/png/4.png)
+![04](https://github.com/user-attachments/assets/a2892c8c-f439-4291-adff-cf54f5ee0bfa)
+
 
 ## Задание 4
 
 1. Сохраните ваш Dashboard.Для этого перейдите в настройки Dashboard, выберите в боковом меню «JSON MODEL». Далее скопируйте отображаемое json-содержимое в отдельный файл и сохраните его.
 1. В качестве решения задания приведите листинг этого файла.
 
-[json](https://github.com/smabramov/10-monitoring-03-grafana/blob/882366a8b7229ae98cbed3888bed237547aa548c/json)
+[json](https://github.com/Makarov-Denis/10-monitoring-03-grafana/blob/main/json)
 ---
 
 ### Как оформить решение задания
